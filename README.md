@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+Halfirzzha+Space+%F0%9F%8C%9F;Full+Stack+Developer+%F0%9F%92%BB;Building+Digital+Solutions+%F0%9F%9B%A0;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+M.RAFLI SAPUTRA+Space+%F0%9F%8C%9F;Full+Stack+Developer+%F0%9F%92%BB;Building+Digital+Solutions+%F0%9F%9B%A0;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,12 +10,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250"/>
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=halfirzzha&style=for-the-badge&color=blue" alt="Profile views"/>
-<a href="https://gitlab.com/halfirzzha"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="https://github.com/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+
+  <a href="https://instagram.com/oiiiple" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  
+  <a href="https://github.com/SaputraRafli13" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
   
 </div>
 
@@ -32,7 +30,7 @@
 - 👯 I'm looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **PHP, Laravel, Vue.js, MySQL**
 - ⚡ Fun fact: **I turn caffeine into code**
-- 📫 How to reach me: **halfirzzha@gmail.com**
+  
 
 </div>
 
@@ -83,7 +81,7 @@
 <h3 align="center">🎮 Contribution Snake</h3>
 
 <div align="center">
-  <a href="https://github.com/halfirzzha">
+  <a href="https://github.com/SaputraRafli13">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
   </a>
 </div>
